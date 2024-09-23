@@ -20,11 +20,12 @@ export default function ExperienceSection() {
 
         <Tabs className="mx-auto xl:w-5/6" defaultValue="experience">
           <TabsList className="mx-auto grid w-full max-w-xl grid-cols-2">
-            <TabsTrigger value="experience">Work Experience</TabsTrigger>
             <TabsTrigger value="education">Education</TabsTrigger>
+            <TabsTrigger value="experience">Work Experience</TabsTrigger>
           </TabsList>
           <TabsContent value="experience">
-            <ExperinceTabSection />
+            <p className='text-center animate-pulse'>Onward so as to make progress.</p>
+            {/* <ExperinceTabSection /> */}
           </TabsContent>
           <TabsContent value="education">
             <EducationTabSection />

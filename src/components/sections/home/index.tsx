@@ -13,7 +13,7 @@ export default function HomeSection() {
   return (
     <>
       <svg
-        className="absolute inset-0 -z-10 h-full max-h-screen w-full stroke-gray-200 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)] dark:stroke-gray-800"
+        className="absolute inset-0 -z-10 h-full max-h-screen w-full stroke-red-300 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)] dark:stroke-green-800"
         aria-hidden="true"
       >
         <defs>
@@ -57,14 +57,13 @@ export default function HomeSection() {
           overflow-hidden whitespace-nowrap pr-5 text-5xl font-extrabold 
           sm:text-6xl"
           >
-            <span className="text-green-700">Hasibul</span> Hasan
+            <span className="text-green-700">Masum Billah </span> Sakib
           </h1>
           <h3 className="mt-2 text-2xl font-semibold opacity-90">
             <div className="bg-gradient-to-r from-slate-200/60 to-slate-200 to-50% bg-clip-text text-3xl  [text-wrap:balance] md:text-4xl">
               <span className="inline-flex h-[calc(theme(fontSize.3xl)*theme(lineHeight.tight))] flex-col overflow-hidden text-indigo-500 md:h-[calc(theme(fontSize.4xl)*theme(lineHeight.tight))]">
-                <ul className="block animate-text-slide-3 text-left leading-tight [&_li]:block">
-                  <li>Software Engineer</li>
-
+                <ul className="block animate-text-slide-2 text-left leading-tight [&_li]:block">
+                  
                   <li>Designer</li>
                   <li>Full-stack developer</li>
 
@@ -76,21 +75,21 @@ export default function HomeSection() {
           <hr className="my-6" />
           <p className="mt-2 text-muted-foreground">
             Passionate about building products that are user-friendly and
-            accessible. I love to contribute to the community. I have a strong
-            background in computer science and I have been working in the tech
+            accessible. I love to contribute to the community. Always Eager to Learn and Innovate. I have been working and learning in the tech
             industry for nearly 3 years.
           </p>
           <div className="mt-10">
             <Button
+          
               onClick={() => {
-                window.open('/Hasibul-Hasan.pdf', '_blank');
+                window.open('/Masum-Billah-Sakib-demo.pdf', '_blank');
               }}
               className="mr-3"
             >
               <DownloadIcon className="mr-2 h-5" /> Download CV
             </Button>
             <Link
-              href="https://github.com/Siam456"
+              href="https://github.com/Bilshansakib"
               target="_blank"
               rel="noreferrer"
             >
@@ -108,7 +107,7 @@ export default function HomeSection() {
             </Link>
 
             <Link
-              href="https://twitter.com/HasibulSiam8"
+              href="https://x.com/eminentsakib"
               target="_blank"
               rel="noreferrer"
             >
@@ -126,7 +125,7 @@ export default function HomeSection() {
             </Link>
 
             <Link
-              href="https://www.linkedin.com/in/hasib11038/"
+              href="https://www.linkedin.com/in/masum-billah-sakib/"
               target="_blank"
               rel="noreferrer"
             >
@@ -143,7 +142,7 @@ export default function HomeSection() {
               </div>
             </Link>
             <Link
-              href="https://www.facebook.com/hasibulsiam456"
+              href="https://www.facebook.com/saaqib.bilshan/"
               target="_blank"
               rel="noreferrer"
             >
@@ -190,7 +189,7 @@ export default function HomeSection() {
             />{' '}
           </video> */}
           <img
-            src="/img/bg2.jpg"
+            src="/img/bg1.jpg"
             alt="hero"
             className="animate-fade-up h-auto w-full rounded-lg lg:w-3/4 "
           />

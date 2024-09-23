@@ -10,7 +10,7 @@ export default function SiteFooter() {
       <div className="flex h-28 w-full items-center justify-center border-b">
         <p>
           Designed and developed by{' '}
-          <span className="text-indigo-500 ">Hasibul Hasan</span> © 2024
+          <span className="text-indigo-500 ">Masum Billah Sakib</span> © 2024
         </p>
       </div>
     </div>

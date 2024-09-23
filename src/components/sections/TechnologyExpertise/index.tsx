@@ -44,26 +44,7 @@ export default function TechnologyExpertise() {
                 <p className=" text-xs">TypeScript</p>
               </CardContent>
             </Card>
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://www.python.org/static/opengraph-icon-200x200.png"
-                  alt="Python"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">Python</p>
-              </CardContent>
-            </Card>
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg "
-                  alt="C++"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">C++</p>
-              </CardContent>
-            </Card>
+
 
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
@@ -147,16 +128,7 @@ export default function TechnologyExpertise() {
                 <p className=" text-xs">Nest.js</p>
               </CardContent>
             </Card>
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLlrZta2RgrrrPTR2fBrS0clzxCteUELymAc8w3CX3iQ&s"
-                  alt="FastAPI"
-                  className="h-8 w-8 rounded-full"
-                />
-                <p className=" text-xs">FastAPI</p>
-              </CardContent>
-            </Card>
+           
 
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
@@ -168,16 +140,7 @@ export default function TechnologyExpertise() {
                 <p className=" text-xs">MongoDB</p>
               </CardContent>
             </Card>
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-                  alt="PostgreSQL"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">PostgreSQL</p>
-              </CardContent>
-            </Card>
+            
 
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
@@ -189,26 +152,8 @@ export default function TechnologyExpertise() {
                 <p className=" text-xs">Firebase</p>
               </CardContent>
             </Card>
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
-                  alt="Redis"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">Redis</p>
-              </CardContent>
-            </Card>
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://prisma.io/favicon.ico"
-                  alt="Prisma"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">Prisma</p>
-              </CardContent>
-            </Card>
+            
+          
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
                 <img
@@ -220,26 +165,8 @@ export default function TechnologyExpertise() {
               </CardContent>
             </Card>
 
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-                  alt="Docker"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">Docker</p>
-              </CardContent>
-            </Card>
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-                  alt="RabbitMQ"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">RabbitMQ</p>
-              </CardContent>
-            </Card>
+          
+           
 
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
@@ -272,16 +199,7 @@ export default function TechnologyExpertise() {
               </CardContent>
             </Card>
 
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <img
-                  src="https://www.herokucdn.com/favicon.ico"
-                  alt="Heroku"
-                  className="h-8 w-8"
-                />
-                <p className=" text-xs">Heroku</p>
-              </CardContent>
-            </Card>
+            
 
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
@@ -304,56 +222,7 @@ export default function TechnologyExpertise() {
               </CardContent>
             </Card>
 
-            <Card className=" min-w-32">
-              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
-                <svg
-                  width="32"
-                  height="32"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 90 90"
-                  tabIndex={-1}
-                  className=" h-8 w-8 "
-                >
-                  <circle
-                    cx="45"
-                    cy="45"
-                    r="36.25"
-                    fill="none"
-                    stroke="#3b82f6"
-                    strokeWidth="17.5"
-                    strokeDasharray="170.824100538945 56.941366846315"
-                    strokeDashoffset="113.88273369263"
-                    className="DigitalOceanSmileyStyles__StyledCircle-sc-64ca7b97-0 knJbuJ"
-                  />
-                  <rect
-                    x="3.25"
-                    y="61.5"
-                    width="11"
-                    height="11"
-                    fill="#3b82f6"
-                    className="DigitalOceanSmileyStyles__StyledPixelSm-sc-64ca7b97-1 kcXHQQ"
-                  />
-                  <rect
-                    x="14.25"
-                    y="72.5"
-                    width="13.5"
-                    height="13.5"
-                    fill="#3b82f6"
-                    className="DigitalOceanSmileyStyles__StyledPixelMd-sc-64ca7b97-2 dzdZv"
-                  />
-                  <rect
-                    x="27.5"
-                    y="55.25"
-                    width="17.25"
-                    height="17.25"
-                    fill="#3b82f6"
-                    className="DigitalOceanSmileyStyles__StyledPixelLg-sc-64ca7b97-3 movTc"
-                  />
-                </svg>
-                <p className=" text-xs">DigitalOcean</p>
-              </CardContent>
-            </Card>
+            
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
                 <img
@@ -512,6 +381,26 @@ export default function TechnologyExpertise() {
                 <p className=" text-xs">React Native</p>
               </CardContent>
             </Card>
+                        <Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://www.python.org/static/opengraph-icon-200x200.png"
+                  alt="Python"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">Python</p>
+              </CardContent>
+            </Card>
+            <Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg "
+                  alt="C++"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">C++</p>
+              </CardContent>
+            </Card>
 
             <Card className=" min-w-32">
               <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
@@ -532,6 +421,132 @@ export default function TechnologyExpertise() {
                   className="h-8 w-8"
                 />
                 <p className=" text-xs">WordPress</p>
+              </CardContent>
+            </Card>
+            <Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+                  alt="PostgreSQL"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">PostgreSQL</p>
+              </CardContent>
+            </Card>
+
+ <Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLlrZta2RgrrrPTR2fBrS0clzxCteUELymAc8w3CX3iQ&s"
+                  alt="FastAPI"
+                  className="h-8 w-8 rounded-full"
+                />
+                <p className=" text-xs">FastAPI</p>
+              </CardContent>
+            </Card>
+<Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+                  alt="Redis"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">Redis</p>
+              </CardContent>
+            </Card>
+
+  <Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://prisma.io/favicon.ico"
+                  alt="Prisma"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">Prisma</p>
+              </CardContent>
+            </Card>
+
+  <Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+                  alt="Docker"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">Docker</p>
+              </CardContent>
+            </Card>
+
+ <Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+                  alt="RabbitMQ"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">RabbitMQ</p>
+              </CardContent>
+            </Card>
+
+<Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <img
+                  src="https://www.herokucdn.com/favicon.ico"
+                  alt="Heroku"
+                  className="h-8 w-8"
+                />
+                <p className=" text-xs">Heroku</p>
+              </CardContent>
+            </Card>
+
+<Card className=" min-w-32">
+              <CardContent className="flex flex-col items-center justify-center gap-2 p-6 py-4">
+                <svg
+                  width="32"
+                  height="32"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 90 90"
+                  tabIndex={-1}
+                  className=" h-8 w-8 "
+                >
+                  <circle
+                    cx="45"
+                    cy="45"
+                    r="36.25"
+                    fill="none"
+                    stroke="#3b82f6"
+                    strokeWidth="17.5"
+                    strokeDasharray="170.824100538945 56.941366846315"
+                    strokeDashoffset="113.88273369263"
+                    className="DigitalOceanSmileyStyles__StyledCircle-sc-64ca7b97-0 knJbuJ"
+                  />
+                  <rect
+                    x="3.25"
+                    y="61.5"
+                    width="11"
+                    height="11"
+                    fill="#3b82f6"
+                    className="DigitalOceanSmileyStyles__StyledPixelSm-sc-64ca7b97-1 kcXHQQ"
+                  />
+                  <rect
+                    x="14.25"
+                    y="72.5"
+                    width="13.5"
+                    height="13.5"
+                    fill="#3b82f6"
+                    className="DigitalOceanSmileyStyles__StyledPixelMd-sc-64ca7b97-2 dzdZv"
+                  />
+                  <rect
+                    x="27.5"
+                    y="55.25"
+                    width="17.25"
+                    height="17.25"
+                    fill="#3b82f6"
+                    className="DigitalOceanSmileyStyles__StyledPixelLg-sc-64ca7b97-3 movTc"
+                  />
+                </svg>
+                <p className=" text-xs">DigitalOcean</p>
               </CardContent>
             </Card>
           </div>

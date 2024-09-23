@@ -1,11 +1,19 @@
 const EducationData = [
   {
+    id: 0,
+    degree: "Web Development",
+    field: 'Web Developer',
+    institution: 'Complete Web Development Course with JM',
+    location: 'Faridpur, Bangladesh',
+    duration: 'january 2024 · July 2024',
+  },
+  {
     id: 1,
-    degree: 'Bachelor of Science',
-    field: 'Computer Science and Engineering',
-    institution: 'Daffodil International University',
-    location: 'Dahak, Bangladesh',
-    duration: 'january 2018 · january 2022',
+    degree: "Master's degree",
+    field: 'Mathematics',
+    institution: 'Govt. Rajendra Clg',
+    location: 'Level-4, 34, Awal Centre, Banani, Dhaka',
+    duration: 'january 2023 · january 2024',
   },
   {
     id: 2,
@@ -19,7 +27,7 @@ const EducationData = [
     id: 3,
     degree: 'Secondary School Certificate',
     field: 'Science',
-    institution: 'BZM Govt High School',
+    institution: 'Govt. Police lines High School',
     location: 'Faridpur, Bangladesh',
     duration: '2008 · 2014',
   },

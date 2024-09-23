@@ -22,7 +22,7 @@ export default function SiteHeader() {
           <nav className="flex items-center">
             <MobileNav />
             <Link
-              href="https://github.com/Siam456"
+              href="https://github.com/Bilshansakib"
               target="_blank"
               rel="noreferrer"
             >
@@ -39,7 +39,7 @@ export default function SiteHeader() {
               </div>
             </Link>
             <Link
-              href="https://twitter.com/HasibulSiam8"
+              href="https://x.com/eminentsakib"
               target="_blank"
               rel="noreferrer"
             >

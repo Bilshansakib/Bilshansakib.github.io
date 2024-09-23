@@ -43,10 +43,10 @@ items-center justify-between gap-10 space-y-2"
             <CardTitle>Email</CardTitle>
             <p>
               <a
-                href="mailto:hasibulsiam27@gmail.com"
+                href="mailto:masumsakib11@gmail.com"
                 className="text-blue-500 hover:underline"
               >
-                hasibulsiam27@gmail.com
+                masumsakib11@gmail.com
               </a>
             </p>
           </CardContent>
@@ -62,7 +62,7 @@ items-center justify-between gap-10 space-y-2"
                 href="tel:01755770538"
                 className="text-blue-500 hover:underline"
               >
-                +88 017 5570538
+                +88 019 10419272
               </a>
               {/* <a href="tel:01643126129">+88 016 43126129</a> */}
             </p>

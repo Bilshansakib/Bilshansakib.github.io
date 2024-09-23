@@ -35,36 +35,36 @@ const ServiceData = [
       },
     ],
   },
-  {
-    title: 'Backend Development',
-    description: 'I can help you design a website that meets your needs.',
-    skills: [
-      {
-        name: 'Node.js',
-        description: 'Proficient in Node.js for server-side development.',
-      },
-      {
-        name: 'Express',
-        description:
-          'Skilled in Express for building web applications and APIs.',
-      },
-      {
-        name: 'Nest.js',
-        description:
-          'Leveraging Nest.js for building efficient and maintainable server-side applications.',
-      },
-      {
-        name: 'FastAPI',
-        description:
-          'Proficient in FastAPI for building web applications and APIs.',
-      },
-      {
-        name: 'RESTful APIs',
-        description:
-          'Skilled in designing and implementing RESTful APIs for web applications.',
-      },
-    ],
-  },
+  // {
+  //   title: 'Backend Development',
+  //   description: 'I can help you design a website that meets your needs.',
+  //   skills: [
+  //     {
+  //       name: 'Node.js',
+  //       description: 'Proficient in Node.js for server-side development.',
+  //     },
+  //     {
+  //       name: 'Express',
+  //       description:
+  //         'Skilled in Express for building web applications and APIs.',
+  //     },
+  //     {
+  //       name: 'Nest.js',
+  //       description:
+  //         'Leveraging Nest.js for building efficient and maintainable server-side applications.',
+  //     },
+  //     {
+  //       name: 'FastAPI',
+  //       description:
+  //         'Proficient in FastAPI for building web applications and APIs.',
+  //     },
+  //     {
+  //       name: 'RESTful APIs',
+  //       description:
+  //         'Skilled in designing and implementing RESTful APIs for web applications.',
+  //     },
+  //   ],
+  // },
   {
     title: 'Full Stack Development',
     description: 'I can help you build full-stack web applications.',
@@ -91,53 +91,53 @@ const ServiceData = [
       },
     ],
   },
-  {
-    title: 'Cloud Solutions',
-    description: 'I can help you with cloud-based development and deployment.',
-    skills: [
-      {
-        name: 'AWS',
-        description: 'Amazon Web Services',
-        subSkills: [
-          {
-            name: 'EC2',
-            description:
-              'Deploying and managing virtual servers for scalable web applications.',
-          },
-          {
-            name: 'S3',
-            description:
-              'Utilizing Amazon S3 for reliable and scalable object storage.',
-          },
-          {
-            name: 'RDS',
-            description:
-              'Setting up and managing relational databases on Amazon RDS for high availability and performance.',
-          },
-          {
-            name: 'Lambda',
-            description:
-              'Implementing serverless architectures for efficient and cost-effective solutions.',
-          },
-          {
-            name: 'API Gateway',
-            description:
-              'Creating and managing APIs for secure and scalable applications.',
-          },
-        ],
-      },
-      {
-        name: 'Google Cloud Platform (GCP)',
-        description:
-          'Experience with Compute Engine, Cloud Storage, Cloud Functions, Cloud Run, Cloud SQL.',
-      },
-      {
-        name: 'Azure',
-        description:
-          'Proficient in Azure services for cloud-based development and deployment.',
-      },
-    ],
-  },
+  // {
+  //   title: 'Cloud Solutions',
+  //   description: 'I can help you with cloud-based development and deployment.',
+  //   skills: [
+  //     {
+  //       name: 'AWS',
+  //       description: 'Amazon Web Services',
+  //       subSkills: [
+  //         {
+  //           name: 'EC2',
+  //           description:
+  //             'Deploying and managing virtual servers for scalable web applications.',
+  //         },
+  //         {
+  //           name: 'S3',
+  //           description:
+  //             'Utilizing Amazon S3 for reliable and scalable object storage.',
+  //         },
+  //         {
+  //           name: 'RDS',
+  //           description:
+  //             'Setting up and managing relational databases on Amazon RDS for high availability and performance.',
+  //         },
+  //         {
+  //           name: 'Lambda',
+  //           description:
+  //             'Implementing serverless architectures for efficient and cost-effective solutions.',
+  //         },
+  //         {
+  //           name: 'API Gateway',
+  //           description:
+  //             'Creating and managing APIs for secure and scalable applications.',
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       name: 'Google Cloud Platform (GCP)',
+  //       description:
+  //         'Experience with Compute Engine, Cloud Storage, Cloud Functions, Cloud Run, Cloud SQL.',
+  //     },
+  //     {
+  //       name: 'Azure',
+  //       description:
+  //         'Proficient in Azure services for cloud-based development and deployment.',
+  //     },
+  //   ],
+  // },
   {
     title: 'Database Management',
     description:
@@ -178,33 +178,33 @@ const ServiceData = [
       },
     ],
   },
-  {
-    title: 'Custom Solutions',
-    description:
-      'I can create custom solutions to meet specific business requirements.',
-    skills: [
-      {
-        name: 'Custom Development',
-        description:
-          'Experienced in designing and developing custom solutions to meet specific business requirements.',
-      },
-      {
-        name: 'Business Analysis',
-        description:
-          'Skilled in analyzing business needs and creating tailored solutions.',
-      },
-      {
-        name: 'Custom Software',
-        description:
-          'Proficient in developing custom software applications and systems.',
-      },
-      {
-        name: 'System Integration',
-        description:
-          'Experienced in integrating custom solutions with existing systems and applications.',
-      },
-    ],
-  },
+  // {
+  //   title: 'Custom Solutions',
+  //   description:
+  //     'I can create custom solutions to meet specific business requirements.',
+  //   skills: [
+  //     {
+  //       name: 'Custom Development',
+  //       description:
+  //         'Experienced in designing and developing custom solutions to meet specific business requirements.',
+  //     },
+  //     {
+  //       name: 'Business Analysis',
+  //       description:
+  //         'Skilled in analyzing business needs and creating tailored solutions.',
+  //     },
+  //     {
+  //       name: 'Custom Software',
+  //       description:
+  //         'Proficient in developing custom software applications and systems.',
+  //     },
+  //     {
+  //       name: 'System Integration',
+  //       description:
+  //         'Experienced in integrating custom solutions with existing systems and applications.',
+  //     },
+  //   ],
+  // },
 ];
 
 export default ServiceData;

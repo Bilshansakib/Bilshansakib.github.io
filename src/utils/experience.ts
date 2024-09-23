@@ -4,7 +4,7 @@ const ExperinceData = [
     location: 'Dhaka, Bangladesh',
     roles: [
       {
-        title: 'Software Engineer',
+        title: 'Web Devoloper',
         startDate: 'January 2024',
         endDate: 'Present',
         duration: '4 mos',
