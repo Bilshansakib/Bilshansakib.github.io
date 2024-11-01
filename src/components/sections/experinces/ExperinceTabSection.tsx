@@ -8,11 +8,11 @@ export default function ExperinceTabSection() {
       {ExperinceData.map((experience, index: number) => (
         <div key={`experience-${index + 1}`}>
           <div className="mb-6 ml-auto flex gap-4 md:w-[calc(50%+30px)]">
-            <img
-              src="/img/brain_station_23.png"
+            {/* <img
+              src=""
               alt="hero"
               className=" h-16 w-16 rounded-full object-cover"
-            />
+            /> */}
             <div>
               <h1 className="text-2xl opacity-80">{experience.company}</h1>
               <p className=" text-muted-foreground">{experience.location}</p>
@@ -25,7 +25,7 @@ export default function ExperinceTabSection() {
                 key={`role-${rolesIndex + 1}`}
                 title={role.title}
                 duration={`${role.startDate} - ${role.endDate} · ${role.duration}`}
-                workMode={`${role.workMode} · Full-time`}
+                workMode={`${role.workMode} · `}
                 description={role.description}
                 skills={role.skills}
               />

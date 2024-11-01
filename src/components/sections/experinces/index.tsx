@@ -24,8 +24,8 @@ export default function ExperienceSection() {
             <TabsTrigger value="experience">Work Experience</TabsTrigger>
           </TabsList>
           <TabsContent value="experience">
-            <p className='text-center animate-pulse'>Onward so as to make progress.</p>
-            {/* <ExperinceTabSection /> */}
+            <p className='text-center animate-pulse'>Onward as to make progress.</p>
+            <ExperinceTabSection />
           </TabsContent>
           <TabsContent value="education">
             <EducationTabSection />

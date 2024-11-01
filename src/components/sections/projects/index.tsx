@@ -33,7 +33,7 @@ items-center justify-between gap-10 space-y-2"
                       {project.stack.map((tech, index) => (
                         <span
                           key={`tech-${index + 1}`}
-                          className="rounded-md bg-accent-foreground bg-opacity-10 px-2 py-1 text-xs text-accent"
+                          className="rounded-md bg-accent-foreground bg-opacity-10 px-2 py-1 text-xs text-accent  hover:text-blue-500 "
                         >
                           {tech}
                         </span>
