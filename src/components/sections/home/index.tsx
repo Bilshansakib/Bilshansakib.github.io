@@ -64,10 +64,10 @@ export default function HomeSection() {
               <span className="inline-flex h-[calc(theme(fontSize.3xl)*theme(lineHeight.tight))] flex-col overflow-hidden text-indigo-500 md:h-[calc(theme(fontSize.4xl)*theme(lineHeight.tight))]">
                 <ul className="block animate-text-slide-2 text-left leading-tight [&_li]:block">
                   
+                  <li>Full-stack developer</li>
                   <li>Designer</li>
                   <li>Full-stack developer</li>
 
-                  <li aria-hidden="true">Software Engineer</li>
                 </ul>
               </span>
             </div>
@@ -76,13 +76,13 @@ export default function HomeSection() {
           <p className="mt-2 text-muted-foreground">
             Passionate about building products that are user-friendly and
             accessible. I love to contribute to the community. Always Eager to Learn and Innovate. I have been working and learning in the tech
-            industry for nearly 3 years.
+            industry for nearly 1 years.
           </p>
           <div className="mt-10">
             <Button
           
               onClick={() => {
-                window.open('/Masum-Billah-Sakib-demo.pdf', '_blank');
+                window.open('/Web_Developer_Resume.pdf', '_blank');
               }}
               className="mr-3"
             >

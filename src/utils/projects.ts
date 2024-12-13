@@ -1,5 +1,13 @@
 const ProjectData = [
   {
+    id: 4,
+    title: 'Phone Wrap',
+    description: "A Modern E-Commerce-Store for Custom Phone Cases.",
+    img: 'https://ibb.co.com/6XH78XD',
+    link: 'https://mobilecase-pro.vercel.app/',
+    stack: ['Next.js', 'TypeScript', 'Prisma','stripe','kinde-auth','uploadthing'],
+  },
+  {
     id: 1,
     title: 'The RevBoost Solutions (Team Project)',
     description:
@@ -33,6 +41,7 @@ const ProjectData = [
     link: 'https://property-axis-1aade.web.app/',
     stack: ['React', 'Node.js', 'MongoDB'],
   },
+  
 ];
 
 export default ProjectData;
